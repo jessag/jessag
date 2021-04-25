@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jessag
-- 👀 I’m interested in using Python and R to perform hypothesis tests, regression, and create beautiful static and interactive maps.
+- 👀 I’m interested in using Python and R to perform hypothesis tests, regression, and create beautiful static and interactive visualizations.
 
 
 <!---
